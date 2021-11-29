@@ -4,7 +4,7 @@ const Home = () => {
             <section className="banner" id="banner">
         <div className="content">
             <h2>Be healthy</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias qui iste saepe deserunt modi.</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                 <a href="Healthy.html" className="btn" target="_blank"> Let's start</a>
         </div>
     </section>
