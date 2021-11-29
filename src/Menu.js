@@ -1,7 +1,7 @@
 const Menu = () => {
     return (  
         <div>
-            <section class="menu" >
+            <section class="menu" id="Sport" >
         <div class="title">
             <h2 class="titletext"><span>Sports</span></h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
