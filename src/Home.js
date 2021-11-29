@@ -14,7 +14,8 @@ const Home = () => {
                         <div className="col50">
                             <h2 className="titletext"><span>L</span>ife Style</h2>
                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis doloribus, fuga cum quibusdam earum alias facere quaerat sed quam,
-                                ducimus deleniti, quia voluptatem? Temporibus molestias beatae sint ipsum fugit!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis doloribus, fuga cum quibusdam earum alias facere quaerat sed quam,
+                                ducimus deleniti, quia voluptatem? Temporibus molestias beatae sint ipsum fugit!Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br /><br />
+        Quasi blanditiis doloribus, fuga cum quibusdam earum alias facere quaerat sed quam,
                                 ducimus deleniti, quia voluptatem? Temporibus molestias beatae sint ipsum fugit!
                                 
                                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis doloribus, fuga cum quibusdam earum alias facere quaerat sed quam,
