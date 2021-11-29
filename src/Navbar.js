@@ -10,9 +10,9 @@ const Nav = () => {
             <li><a href="home.html" onclick="togglemenu()">Home</a></li>
             <li><a href="#about" onclick="togglemenu()">About</a></li>
             {/* <Link to="/AllMenu">Mnue</Link> */}
-            <li><a href="AllMenu.js" onclick="togglemenu()">Menu</a></li>
-            <li><a href="#expert" onclick="togglemenu()"> Expert</a></li>
-            <li><a href="#test" onclick="togglemenu()"> Feed-Back</a></li>
+            <li><a href="#Sport" onclick="togglemenu()">Sport</a></li>
+            <li><a href="#Food" onclick="togglemenu()"> Food</a></li>
+            <li><a href="#test" onclick="togglemenu()"> Captain </a></li>
             <li><a href="#contact" onclick="togglemenu()">Contact</a></li>
         </ul>
     </header>
