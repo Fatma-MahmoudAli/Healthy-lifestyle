@@ -5,7 +5,7 @@ const Home = () => {
         <div className="content">
             <h2>Be healthy</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                <a href="Healthy.html" className="btn" target="_blank"> Let's start</a>
+                <a href="#" className="btn" > Let's start</a>
         </div>
     </section>
 
